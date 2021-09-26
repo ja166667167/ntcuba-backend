@@ -1,2 +1,2 @@
-# ntcuba-backend
-NTCUBA backend repo. It developed by python.
+# NTCUBA-Backend
+NTCUBA backend repo. It developed by python flask.
